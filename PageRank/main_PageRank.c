@@ -1,3 +1,5 @@
+#include "Projet_Ranking_PageRank.c"
+
 
 void main(){   // define the main function
 

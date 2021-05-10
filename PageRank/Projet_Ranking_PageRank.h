@@ -22,7 +22,7 @@
 //wb-edu.txt
 
 
-#define PATH  "/home/aristo_/Bureau/Data/wb-edu.txt"
+#define PATH  "/home/aristo_/Bureau/Data/web4.txt"
 
 /*Dans un premier temps on ecrit la structure de la liste des sommets*/
 
